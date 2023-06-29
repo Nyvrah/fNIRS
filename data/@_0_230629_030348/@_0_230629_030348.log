@@ -1,0 +1,48 @@
+COBI Studio Modern Log File 2.2	1.3.8381.29180
+Start Time:	Thu Jun 29 03:03:48.300 2023
+Files:
+C:\Users\churl\Desktop\fNIRS Research\data\@_0_230629_030348\@_0_230629_030348_Dev1_P1_Sub0.nir
+C:\Users\churl\Desktop\fNIRS Research\data\@_0_230629_030348\@_0_230629_030348_Dev1_P1_Sub0.oxy
+C:\Users\churl\Desktop\fNIRS Research\data\@_0_230629_030348\@_0_230629_030348.log
+
+Devices:
+Device 1 (Model 2000C Simulator)	Id: 20691	v1.0
+
+Data Sources:
+Device 1 (Model 2000C Simulator)	P1:SD 	
+
+Marker Sources:
+
+Broadcasts:
+
+
+
+
+Experimenter:
+@
+
+ExperimentID:
+0
+
+Participants:
+Source	SubjectID	Age	Gender
+All	0		
+
+Description:
+Quick access to record data was selected!
+
+
+Comments:
+
+
+FinalComments:
+
+
+Flagged:
+
+
+Marker Dictionary:
+Source	Value	Description
+
+
+Finalized successfully

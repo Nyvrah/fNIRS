@@ -1,8 +1,10 @@
 import os
 from datetime import datetime as dt
-from tkinter import *
+import win
+import skt
 
-
+w = win.Win()
+s = skt.Skt()
 
 def start():
     folder = "data/" + os.listdir('data')[0] + "/"
@@ -16,7 +18,10 @@ def run(line, i, n, file):
     while True:
         d = time(i)
         if d >= float(line[0]):
-            print([d] + avg(line, n))
+            a = avg(line, n)
+            w.update(a[0])
+            s.send(a[0])
+            print(a)
             line = new(file)
             if line[0] == '-1':
                 break
